@@ -1,0 +1,5 @@
+1. hidden_layer
+2. hidden_unit
+3. learning_decay
+4. Dropout
+5. batch_size
