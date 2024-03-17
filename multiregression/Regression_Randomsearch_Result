@@ -1,0 +1,7 @@
+,Best_Hyperparameters
+Batch_Size,52.0
+Dropout_Rate,0.1549503299164408
+Hidden_Layers,1.0
+Hidden_Units,121.0
+Learning_Rate,0.08134168608731546
+Best_MSE,11.409950256347656
