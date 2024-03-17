@@ -1,7 +1,7 @@
 ,Best_Hyperparameters
 Batch_Size,16.0
-Dropout_Rate,0.1
-Hidden_Layers,3.0
-Hidden_Units,100.0
-Learning_Rate,0.1
-Best_Accuracy,6230979.5
+Dropout_Rate,0.12457863818985675
+Hidden_Layers,2.0
+Hidden_Units,150.0
+Learning_Rate,0.08167401541430919
+Best_Accuracy,0.8508158326148987
